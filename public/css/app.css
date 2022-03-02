@@ -1,0 +1,99 @@
+.container {
+	width: 90%;
+	margin: auto;
+}
+.card-header {
+	border: 1px solid #999999;
+	background-color: #dddddd;
+	color: #888888;
+	font-size: 24px;
+	margin: 0;
+	padding: 10px;
+	border-radius: 5px 5px 0px 0px;
+}
+.card-body {
+	border: 1px solid #999999;
+	border-top: none;
+	border-radius: 0px 0px 5px 5px;
+	height: 300px;
+	padding-left: 30px;
+	padding-top: 30px;
+}
+label {
+	font-size: 20px;
+	color: #888888;
+}
+input {
+	font-size: 20px;
+	padding: 5px 10px 5px 10px;
+	border-radius: 5px;
+	border: 1px solid #888888;
+	background-color: #fefefe;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	color: #888888;
+}
+button {
+	background-color: #5242ff;
+	color: #fefefe;
+	padding: 10px;
+	font-size: 18px;
+	border: 1px solid #888888;
+	border-radius: 5px;
+	box-shadow: 3px 3px 3px #dddddd;
+	text-shadow: 2px 2px 2px  #cccccc;
+}
+.alert {
+	width: 30%;
+	border-radius: 5px;
+	border: none;
+}
+.alert-danger {
+	border: 1px solid red;
+	background-color: rgb(255 , 0, 10);
+}
+.alert-success {
+	border: 1px solid green;
+	padding: 10px;
+	font-size: 16px;
+	color: white;
+	margin-left: 10px;
+	background-color: rgb(0, 220, 0);
+}
+li {
+	font-size: 18px;
+	color: white;
+}
+.uper {
+	border: 1px solid #888888;
+	border-radius: 0px 0px 10px 10px;
+	height: 500px;
+	padding: 20px;
+}
+table th{
+	font-size: 25px;
+	color: white;
+	background-color: rgb(0,220,0);
+	padding: 10px;
+	border: 0px solid white;
+	border-radius: 5px;
+}
+table tr {
+	border: 1px solid green;
+	border-radius: 3px;
+	text-align: center;
+}
+td {
+	font-size: 22px;
+	color: green;
+	text-shadow: 3px 3px 3px #bbbbbb;
+}
+a {
+	border: 1px solid blue;
+	padding: 8px;
+	border-radius: 3px;
+	box-shadow: 3px 3px 3px #dddddd;
+	text-decoration: none;
+	background-color: #5242ff;
+	color: white;
+}
